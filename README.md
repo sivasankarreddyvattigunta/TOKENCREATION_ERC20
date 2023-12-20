@@ -15,7 +15,6 @@ To get started with this project, follow these steps:
 
    npm install
    
-
 ## ERC-20 Token Creation
 
 This project demonstrates the creation of an ERC-20 token. The main components for ERC-20 token creation are as follows:
