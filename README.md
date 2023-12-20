@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```shell
-  git clone https://github.com/sivasankarreddyvattigunta/TOKENCREATION_ERC20/edit/main/README.md
+   git clone https://github.com/sivasankarreddyvattigunta/TOKENCREATION_ERC20/edit/main/README.md
    ```
 
 2. Install dependencies:
