@@ -64,4 +64,4 @@ Explore other Hardhat commands for more functionality:
 
 ## Author
 
-[sivasankarreddyvattigunta](https://github.com/sivasankarreddyvattigunta)
+[siva sankar reddy vattigunta](https://github.com/sivasankarreddyvattigunta)
